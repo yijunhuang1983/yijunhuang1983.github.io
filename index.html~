@@ -42,8 +42,9 @@ img.emoji {
 <link rel="stylesheet" id="twentyfourteen-lato-css" href="./res/css_files/css.css" type="text/css" media="all">
 <link rel="stylesheet" id="genericons-css" href="./res/css_files/genericons.css" type="text/css" media="all">
 <link rel="stylesheet" id="twentyfourteen-style-css" href="./res/css_files/style.css" type="text/css" media="all">
-
-
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentyfourteen-ie-css'  href='http://www.yelab.net/wp-content/themes/twentyfourteen/css/ie.css?ver=20131205' type='text/css' media='all' />
+<![endif]-->
 <script type="text/javascript" src="./res/css_files/jquery_002.js"></script>
 <script type="text/javascript" src="./res/css_files/jquery-migrate.js"></script>
 <script type="text/javascript" src="./res/css_files/papercite.js"></script>
